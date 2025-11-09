@@ -1,0 +1,2 @@
+# EcoNav-INTELLIGENT-RANGE-AND-SPEED-OPTIMIZATION-SYSTEM
+EcoNav is an intelligent dashboard for Electric Vehicles (EVs) that predicts driving range,optimizes routes, and suggests nearby charging stations using machine learning. Built with Python, Streamlit, and mapping tools (Folium, Geopy, OSRM), EcoNav integrates real-time data visualization and energy management to promote smart, eco-friendly driving.
